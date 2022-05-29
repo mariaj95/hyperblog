@@ -5,6 +5,24 @@ body
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
 }
+
+#cabecerashow
+{
+    background: #33a;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0%;
+    padding: 0.5em;
+}
+
+#cabecerashow #tagline
+{
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.Bem;
+}
+
 #container
 {
     width: 70%;
